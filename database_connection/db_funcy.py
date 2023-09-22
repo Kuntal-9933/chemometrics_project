@@ -8,7 +8,7 @@ def db_connection():
     conn=mc.connect(
         host="localhost",
         user="root",
-        password="hare.krishna@98",
+        password="Your_password",
         database="chemometrics_lab"
         )
     
